@@ -1,0 +1,11 @@
+div{
+    border: 5px solid tomato;
+}
+div img{
+    border: 10px double yellow;
+    display: flexbox;
+    align-items: center;
+    width: 250px;
+    height: 400px;
+    margin: 15px;
+}
